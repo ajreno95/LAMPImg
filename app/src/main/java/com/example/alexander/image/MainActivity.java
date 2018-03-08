@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Resources res = getResources();
-        Drawable drawable = res.getDrawable(R.drawable.xImage);
+        Drawable drawable = res.getDrawable(R.drawable.ximage);
 
     }
 

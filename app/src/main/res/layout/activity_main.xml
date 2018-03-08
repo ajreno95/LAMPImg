@@ -17,6 +17,6 @@
     <ImageView
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
-        android:src="@drawable/xImage" />
+        android:src="@drawable/ximage" />
 
 </android.support.constraint.ConstraintLayout>
